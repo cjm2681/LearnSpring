@@ -25,7 +25,7 @@ class YourBusinessClass{
 		this.dependency2 = dependency2;
 	}
 
-
+ 
 
 
 //	@Autowired

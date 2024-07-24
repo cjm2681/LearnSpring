@@ -17,7 +17,7 @@ class NormalClass {
 class PrototypeClass {
 
 }
-
+ 
 @Configuration
 @ComponentScan
 public class BeanScopesLauncherApplication {

@@ -28,7 +28,7 @@ class SomeClass {
 	}
 	
 	@PreDestroy
-	public void cleanup() {
+	public void cleanup() { 
 		System.out.println("Cleanup");
 	}
 	

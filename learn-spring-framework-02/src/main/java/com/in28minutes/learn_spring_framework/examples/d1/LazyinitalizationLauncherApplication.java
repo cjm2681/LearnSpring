@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 @Component
 class ClassA {
 	
-}
+} 
 
 @Component
 @Lazy
